@@ -1,0 +1,27 @@
+.container {
+    margin: 12px;
+  display: flex;
+  flex-direction: row;
+  /* grid-template-columns: */
+}
+
+.columnContainer {
+    display: flex;
+    flex-direction: column;
+    padding: 6px;
+    min-width: 12vw;
+}
+
+.headerItem {
+    padding: 12px;
+    background-color: burlywood;
+}
+
+.cell {
+    padding: 12px;
+    border: 1px solid black;
+}
+
+.greenCell {
+
+}
